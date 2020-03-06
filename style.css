@@ -1,0 +1,13 @@
+.header-unit{
+	background-color: #bdf7d7c7;
+	height: 4rem;
+	border-radius: 20px;
+	border-bottom: 1px solid #DDD;
+	display: flex;
+	position: fixed;
+	width: 99%;
+}
+.inHeader{
+	flex-grow: 1;
+	align-items: center;
+}
