@@ -1,0 +1,39 @@
+* {
+	font-family: arial, sans-serif;
+}
+body {
+	background-color: #fdfdfd;
+	margin: 0px;
+}
+a {
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.header-unit{
+	background-color: #edffea;
+	height: 4rem;
+	border-bottom: 1px solid #DDD;
+	display: flex;
+	position: fixed;
+	width: 100%;
+	align-items: center;
+}
+.inHeader{
+	align-items: center;
+	justify-content: center;
+}
+.inHeader-1{
+	align-items: center;
+}
+.inHeader-2{
+	flex-grow: 1;
+}
+.inHeader-3{
+	font-size: 2rem;
+}
+.link-fb{
+	color: #216353;
+	font-family: 'Pacifico', cursive;
+}
