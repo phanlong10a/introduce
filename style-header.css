@@ -5,20 +5,15 @@ body {
 	background-color: #fdfdfd;
 	margin: 0px;
 }
-a {
-	text-decoration: none;
-}
-a:hover{
-	text-decoration: underline;
-}
+
 .inHeader-3{
 	font-size: 2rem;
 }
 .link-fb{
 	color: #216353;
 	font-family: 'Pacifico', cursive;
+	text-decoration: none;
 }
 .link-fb:hover {
 	color: #216353;
-	
 }
